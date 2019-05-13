@@ -7,7 +7,11 @@ assignees: theLMGN
 
 ---
 
-**App name, for example 'YouTube'**
+**App name**
+YouTube
 
+**Bundle ID**
 
-**Bundle ID, for example 'com.google.ios.youtube', grab from here https://offcornerdev.com/bundleid.html**
+com.google.ios.youtube
+
+Grab from here https://offcornerdev.com/bundleid.html for 3rd party apps, and https://github.com/joeblau/apple-bundle-identifiers for 1st party ones
